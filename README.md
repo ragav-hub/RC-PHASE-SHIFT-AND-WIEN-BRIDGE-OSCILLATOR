@@ -1,7 +1,7 @@
 # RC-PHASE-SHIFT-AND-WIEN-BRIDGE-OSCILLATOR
 
 ## AIM:
-	To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-amp.
+To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-amp.
 
 ## APPARATUS REQUIRED:
 <img width="666" height="194" alt="image" src="https://github.com/user-attachments/assets/b2082e32-68fa-42ae-9d19-a8763286d047" />
