@@ -66,4 +66,4 @@ To prevent loading,
 3.	Measure the output wave frequency and amplitude.
 
 ## RESULT:
-
+Thus the RC phase shift oscillator and Wien bridge oscillator are designed and tested using op-amp IC 741
